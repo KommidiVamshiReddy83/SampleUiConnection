@@ -10,5 +10,6 @@ public class SampleUlConnectionApplication {
 
 		SpringApplication.run(SampleUlConnectionApplication.class, args);
 		System.out.println("UI App RUNNING...........");
+		System.out.println("Vamshi forked project and updated to shashank");
 	}
 }
